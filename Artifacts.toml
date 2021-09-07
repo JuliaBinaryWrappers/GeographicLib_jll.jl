@@ -1,0 +1,236 @@
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fd29b8bece862b9480d12cde92dee4422d6ba31e"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "9c2966b4552029c57406c76a5b9fa9814eb8537217e964a2fbca03740627b56c"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "560a0054479d9277939f95aa6f7905f75eb93565"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "a80d5cdd30f6de8ff299ea6361ee90fcc0f616a938316619dd8527913a24ee35"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7a94482564af85eca12020e1748254ae9d7e59c6"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "8371d2428e11a1b987ffbc4feaba203966d1bda758c2fd8b5d74f1a7bfcd7674"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d0cc85390eec20afebe4e25b10953ba916cde5eb"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "2f15a1edd964b41567bcd754bf9c02c59bf62b08799813e8ae26906581f57526"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d2f198997addef60142a90b58e047e1002f042aa"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "603d46c866bb5cfd97fd4a72a870ad343b3265b47f5927a5ea235668e0c2e078"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "538d0976b284e17b2a38fc72523671be96201ba8"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "ae8ff8919c114e95acc114c0b2654569cf6e797498d8b2817a4def85c29051f9"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ec6f5abcc156cabcbe0f0b823763b1e0c6cc11f"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "26bd7feeebb97b29440e8ed1e1bd016665b84ae9d342fd07d014ec9c5ba584e5"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5e7d0cf92216ce0622c38e0b5116fc60b988546"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "88a29b81aa6bb128be6234beaa535b3dd4625a2cb679fcb001b88f162b685514"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "711cbacf4bde3c14a5fcb05de8ea05fb4f581e3a"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "beb75433b1c31b8460e216d03088cc27daac56d58afb80b4621b296030d403e0"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdbe32d194e9c4f433d0648a53b06e6c1b3f602a"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "ed40f524eee2d18d9be986b52a4189b72163bfa615f5611a990b3c412789342d"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8508d7a8233008be3e93b16199b60b616c228024"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "2af9a3e60ffb3905b0cc97adc6d4241c3e55beba6ed8d3a49eb99a5c2761330e"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57aa31f33f1c665637846add8ba32dec5acd6101"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "1de854269e1a3aef6a7a781000cd311a61f8fb65f6e207d85e2eb967f628880d"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ef333ded80b79f3e11bd6a8663d9e542c944e73"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "e041b83f58df8ecc9ba707c3ebeec659b56f1059920abce433dc28f80cec80e3"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-w64-mingw32-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a345c9e16d11b6610663888ec8aa53e470063fc3"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "81521ff81b42a6b06559c7ddf9c1dbb46ec3511cfb192441ab32606500963b7a"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-w64-mingw32-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d8d8d5f1a1de4789f32123469f652762a7547f6"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "52cce188bdea5fafef014469cfa18e29b6afb2430ac4f16ddd19106c2fabacb7"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fad19972779a39524bfcd14f45d2c0b065cdfff"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "0d10d4b4feb03239c71bd3c423bc3c972e4351a51adf879d5964e3223121895a"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+git-tree-sha1 = "4aff0f96d1737c8a18479c7b7847fe8371184fbc"
+os = "macos"
+
+    [[GeographicLib.download]]
+    sha256 = "d054fd126ba260ff12af9ed65a95c78fda61ca27e62cca90c0c36e505280fd92"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-apple-darwin.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3350c2db59d16bef57a25403a46a54ba9577fde0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "533d56e189b2b2273458bf97e2dec050820728b31ae609cbf40e627add232e94"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b1d7873f4beb71e9092b3c55d272703fe5463eb"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "4b51c38934e1f948def64cc7bad5328c302ed66d9c82121b06fad83e563a8ee9"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f7bc895a51058837a72c577e95664c7462c4271"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "b4706b8d68d2f37d54a765479b1d3f1d030cd0f418319cdfa4e16fa6a68e599b"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bf8cf98679c400cc17bfd404c5ce049ff745cea1"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "53a6e6c37ae02882e514daefbe319cbd07cdd9fbbc9d73340d12c8c26538e27a"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+git-tree-sha1 = "5d0cf2bb143b6d96548c4390d8604cb57375aa00"
+os = "freebsd"
+
+    [[GeographicLib.download]]
+    sha256 = "49b7f88067ff821b2b28b6971e007a33335d93f05a81dfed0cc577f0f311ad2d"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-unknown-freebsd.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfaeb47bde36dd1add13d9491371dddb5e81e4d9"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "1ab7f32dda8eee78dd8ed59193aacd9da13ac46d3a1947a4577105db71206325"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98ba0c64f10bd53025d0f01c32390601dbee285f"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "15fe06d86e4eb57e1c8617d188bd3ea4c79d897cf7f8c0f05d678319c0bdf815"
+    url = "https://github.com/JuliaBinaryWrappers/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-w64-mingw32-cxx11.tar.gz"
